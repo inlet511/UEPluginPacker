@@ -1,0 +1,10 @@
+# 个人设置(自定义引擎、默认输出位置)，每台机器不同
+UEPP.Settings.json
+
+# 任务文件含本机路径，只提交示例
+Jobs/*.psd1
+!Jobs/Example.psd1
+
+# 默认输出目录
+Output/
+*.zip

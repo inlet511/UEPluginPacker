@@ -1,0 +1,6 @@
+# Windows 脚本统一用 CRLF；.cmd 用 LF 时 cmd.exe 解析可能出错
+*.ps1  text eol=crlf
+*.psd1 text eol=crlf
+*.cmd  text eol=crlf
+*.txt  text eol=crlf
+*.md   text eol=crlf
